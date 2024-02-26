@@ -1,0 +1,4 @@
+repository "Orbit Ops@firuzarahimova@cloud"
+  path "/"
+    br "/main"
+    co "/main"
